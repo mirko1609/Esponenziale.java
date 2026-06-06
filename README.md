@@ -38,4 +38,4 @@ java esponenziale
 
 ## Note
 
-Progetto scolastico realizzato durante il primo anno presso ITIS, indirizzo Informatica.
+Progetto scolastico realizzato durante il primo anno del triennio presso ITIS, indirizzo Informatica.
